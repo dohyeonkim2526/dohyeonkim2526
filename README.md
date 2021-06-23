@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=waving)
+![header](https://capsule-render.vercel.app/api?color=F9DC3E)
+
 
 - 👋 Hi, I’m @dohyeonkim2526
 - 👀 I’m interested in ...
