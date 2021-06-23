@@ -6,8 +6,8 @@
 
 
 <img src="https://img.shields.io/badge/Python-FF5A5F?style=flat-square&logo=Python&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/R-5468FF?style=flat-square&logo=R&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-FECC00?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
   
   
