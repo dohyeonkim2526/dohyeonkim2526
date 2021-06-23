@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F9DC3E&height=150&text=Dohyeon's%20Space&desc=🌈%20Welcome%20to%20Visit%20🌈&descSize=14&descAlignY=40&fontSize=20&fontAlignY=25&fontColor=666666&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F9DC3E&height=250&text=Dohyeon's%20Space&desc=🌈%20Welcome%20to%20Visit%20🌈&descSize=25&descAlignY=50&fontSize=50&fontAlignY=30&fontColor=666666&animation=fadeIn)
 
 😄 Hi, It's Do Hyeon Kim. I’m interested in Data Analysis.
 
@@ -17,10 +17,9 @@
 <div align="center">
   
 	
-<br>🔱 **Skills** 🔱
+<br>
 
-<div align="center">
-	
+# 🔱 skills 🔱
 <div align="center">	
 	<img src="https://img.shields.io/badge/Python-FF5A5F?style=flat-square&logo=Python&logoColor=white"/></a> 
 	<img src="https://img.shields.io/badge/R-5468FF?style=flat-square&logo=R&logoColor=white"/></a>
@@ -29,7 +28,10 @@
 </div>
 <br/>
 
-<br>🕹 **Tools** 🕹
+<br> 
+
+# 🕹 skills 🕹
+
 <div align="center">
 	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> 
 	<img src="https://img.shields.io/badge/SpyderIDE-40B5A4?style=flat-square&logo=SpyderIDE&logoColor=white"/></a>
