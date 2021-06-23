@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F9DC3E&height=150&text=Dohyeon's%20Space&desc=🌈%20Welcome%20to%20Visit%20🌈&descSize=14&descAlignY=40&fontSize=20&fontAlignY=25&fontColor=666666&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F9DC3E&height=150&text=Dohyeon's%20Space&desc=%20Welcome%20to%20Visit%20&descSize=14&descAlignY=40&fontSize=20&fontAlignY=25&fontColor=666666&animation=fadeIn)
 
 😄 Hi, It's Do Hyeon Kim. I’m interested in Data Analysis.
 
@@ -24,6 +24,14 @@
 <br/>
 
 <br>🕹 **Tools** 🕹
+<div align="center">
+	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> 
+	<img src="https://img.shields.io/badge/SpyderIDE-40B5A4?style=flat-square&logo=SpyderIDE&logoColor=white"/></a>
+	<img src="https://img.shields.io/badge/Jupyter-6CADDF?style=flat-square&logo=Jupyter&logoColor=white"/></a>
+
+</div>
+<br>
+<br/>
 <br>
 <br/>
 
