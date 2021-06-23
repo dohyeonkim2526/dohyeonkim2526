@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F9DC3E&height=250&text=Dohyeon's%%Space&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F9DC3E&height=250&text=Dohyeon's%20Space&fontSize=40)
 
 
 - 👋 Hi, I’m @dohyeonkim2526
