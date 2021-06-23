@@ -14,6 +14,13 @@
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 </div>
 
+
+
+
+
+
+
+
 <div align="center">	
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://python-lab-201.tistory.com/)](https://python-lab-201.tistory.com/)
