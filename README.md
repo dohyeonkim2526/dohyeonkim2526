@@ -31,3 +31,6 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kmj2526@naver.com)](mailto:kmj2526@naver.com)
    
 </div>	
+
+![footer](https://capsule-render.vercel.app/api?type=soft&section=footer&height=50)
+
