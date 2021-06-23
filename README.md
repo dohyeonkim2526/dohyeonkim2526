@@ -6,7 +6,13 @@
 
 🎯 These days I'm especially trying to learn SQL.
 
-
+<div align="center">
+<br>
+	
+<br/>
+	
+[![Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyeonkim2526&hide=prs,contribs&show_icons=true&theme=vue)](https://github.com/dohyeonkim2526/github-readme-stats)
+</div>
 
 <div align="center">
   
