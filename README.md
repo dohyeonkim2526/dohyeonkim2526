@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F9DC3E&height=400)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F9DC3E&height=300)
 
 
 - 👋 Hi, I’m @dohyeonkim2526
