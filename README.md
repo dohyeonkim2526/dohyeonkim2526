@@ -1,9 +1,9 @@
+<div align="center">
 - 👋 Hi, I’m @dohyeonkim2526
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
 
 <img src="https://img.shields.io/badge/Python-FF5A5F?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/R-5468FF?style=flat-square&logo=R&logoColor=white"/></a>
@@ -16,5 +16,7 @@
   [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kmj2526@naver.com)](mailto:kmj2526@naver.com)
    
   <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+  
+</div>
    
 	
