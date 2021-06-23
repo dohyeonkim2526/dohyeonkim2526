@@ -32,5 +32,5 @@
    
 </div>	
 
-![footer](https://capsule-render.vercel.app/api?type=soft&section=footer&height=50)
+![footer](https://capsule-render.vercel.app/api?type=soft&section=footer&height=80)
 
