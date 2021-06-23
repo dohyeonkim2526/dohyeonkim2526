@@ -1,11 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F9DC3E&height=150&text=Dohyeon's%20Space&desc=Welcome%20to%20Visit!&descSize=14&descAlignY=40&fontSize=20&fontAlignY=25&fontColor=666666&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F9DC3E&height=150&text=Dohyeon's%20Space&desc=🌈%20Welcome%20to%20Visit%20🌈&descSize=14&descAlignY=40&fontSize=20&fontAlignY=25&fontColor=666666&animation=fadeIn)
 
-- 👋 Hi, I’m @dohyeonkim2526!
+😄 Hi, It's Do Hyeon Kim. I’m interested in Data Analysis.
 
-- 🌱 I’m interested in Data Analysis
+✏ I'm studying data analysis theory and preparing for a related certification.
 
+🎯 These days I'm especially trying to learn SQL.
+
+
+
+<div align="center">
+  
 	
-	
+<br>🔱 **Skills** 🔱
+
+<div align="center">
 	
 <div align="center">	
 	<img src="https://img.shields.io/badge/Python-FF5A5F?style=flat-square&logo=Python&logoColor=white"/></a> 
@@ -13,8 +21,11 @@
 	<img src="https://img.shields.io/badge/Java-FECC00?style=flat-square&logo=Java&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 </div>
+<br/>
 
-
+<br>🕹 **Tools** 🕹
+<br>
+<br/>
 
 <div align="center">	
 
@@ -23,4 +34,3 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kmj2526@naver.com)](mailto:kmj2526@naver.com)
  	
 </div>	
-
