@@ -2,9 +2,9 @@
 &descSize=14&descAlignY=40&fontSize=20&fontAlignY=25&fontColor=666666&animation=fadeIn)
 
 
-👋 Hi, I’m @dohyeonkim2526!
+- 👋 Hi, I’m @dohyeonkim2526!
 
-🌱 I’m interested in Data Analysis
+- 🌱 I’m interested in Data Analysis
 
 	
 	
