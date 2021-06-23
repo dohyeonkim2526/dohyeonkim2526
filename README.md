@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F9DC3E&height=250&text=Dohyeon's%20Space&desc=Welcome%20to%20Visit!&decsSize=50&descSize=20&fontSize=40&fontAlignY=40&fontColor=5252525)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F9DC3E&height=250&text=Dohyeon's%20Space&desc=Welcome%20to%20Visit!&decsSize=50&descSize=20&fontSize=40&fontAlignY=35&fontColor=666666)
 
 
 - 👋 Hi, I’m @dohyeonkim2526
