@@ -1,10 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F9DC3E&height=250&text=Dohyeon's%20Space&desc=🌈%20Welcome%20to%20Visit%20🌈&descSize=25&descAlignY=50&fontSize=50&fontAlignY=30&fontColor=666666&animation=fadeIn)
 
-😄 Hi, It's Do Hyeon Kim. I’m interested in Data Analysis.
+😄 Hi, It's Do Hyeon Kim. I’m interested in Data Engineering and Analysist.
 
 ✏ I'm studying data analysis theory and preparing for a related certification.
 
-🎯 These days I'm especially trying to learn SQL.
+🎯 To be a Specialist in DE and DA, I'm trying to learn ...
+* SQL
+* Spark
+* Scala
+* Java, Aws, Hive, Hadoop
 
 <div align="center">
 <br>
