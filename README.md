@@ -5,6 +5,7 @@
 
 ✏ I'm studying data analysis theory and preparing for a related certification.
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus2526">
+
 🎯 To be a Specialist in DE and DA, I'm trying to learn ...
 * SQL
 * Spark
