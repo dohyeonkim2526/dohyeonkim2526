@@ -4,7 +4,7 @@
 😄 Hi, It's Do Hyeon Kim. I’m interested in Data Engineering and Analysist.
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus2526">
 
-✏ I'm studying data analysis theory and preparing for a related certification.
+✏ I'm studying DA theory and preparing for a related certification.
 
 🎯 To be a Specialist in DE and DA, I'm trying to learn ...
 * SQL
@@ -16,7 +16,7 @@
 <br/>
 
 
-💎  **skills**  💎
+💎  **skills** 
 
 <img src="https://img.shields.io/badge/Python-FF5A5F?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/R-5468FF?style=flat-square&logo=R&logoColor=white"/></a>
