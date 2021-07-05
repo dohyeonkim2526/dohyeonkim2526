@@ -15,14 +15,14 @@
 	
 <br/>
 	
-[![Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyeonkim2526&hide=prs,contribs&show_icons=true&theme=vue)](https://github.com/dohyeonkim2526/github-readme-stats)
+[![Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyeonkim2526&hide=prs,contribs&show_icons=true&theme=highcontrast)](https://github.com/dohyeonkim2526/github-readme-stats)
 </div>
 
 <div align="center">
 	
 	
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeonkim2526&layout=compact&hide=jupyter%20notebook&theme=dracula)](https://github.com/dohyeonkim2526/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeonkim2526&layout=compact&hide=jupyter%20notebook&theme=highcontrast)](https://github.com/dohyeonkim2526/github-readme-stats)
 
 	
   
