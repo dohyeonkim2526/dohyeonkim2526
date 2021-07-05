@@ -58,7 +58,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dohyeonkim2526&repo=ProblemSolving&theme=blueberry)](https://github.com/dohyeonkim2526/ProblemSolving)
 <div align="right">
-	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dohyeonkim2526&repo=ProblemSolving-SQL&theme=blueberry)](https://github.com/dohyeonkim2526/ProblemSolving-SQL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dohyeonkim2526&repo=ProblemSolving-SQL&theme=blueberry)](https://github.com/dohyeonkim2526/ProblemSolving-SQL)
 </div>
 	
 
