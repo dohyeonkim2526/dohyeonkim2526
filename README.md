@@ -22,7 +22,7 @@
 	
 	
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeonkim2526&layout=compact&hide=jupyter%20notebook&theme=synthwave)](https://github.com/dohyeonkim2526/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeonkim2526&layout=compact&hide=jupyter%20notebook&theme=highcontrast)](https://github.com/dohyeonkim2526/github-readme-stats)
 
 	
   
