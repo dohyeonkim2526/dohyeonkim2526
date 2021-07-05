@@ -23,12 +23,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeonkim2526&layout=compact&hide=jupyter%20notebook&theme=chartreuse-dark)](https://github.com/dohyeonkim2526/github-readme-stats)
 	
 	
-	
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={userid})](https://solved.ac/ehgus2526)
-	
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={userid})](https://solved.ac/ehgus2526)
-	
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={userid})](https://solved.ac/ehgus2526)
+[![Solved.ac ehgus2526](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 
 	
   	
