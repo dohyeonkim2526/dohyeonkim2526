@@ -16,7 +16,7 @@
 <div align="center">
 <div align="center">
 	
-[![Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyeonkim2526&hide=prs,contribs&show_icons=true&theme=chartreuse-dark&bg_color=585858)](https://github.com/dohyeonkim2526/github-readme-stats)
+[![Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyeonkim2526&hide=prs,contribs&show_icons=true&theme=chartreuse-dark&bg_color=E6E6E6)](https://github.com/dohyeonkim2526/github-readme-stats)
 
 
 	
