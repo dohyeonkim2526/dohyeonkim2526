@@ -2,9 +2,8 @@
 
 
 😄 Hi, It's Do Hyeon Kim. I’m interested in Data Engineering and Analysist.
-
-✏ I'm studying data analysis theory and preparing for a related certification.
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus2526">
+✏ I'm studying data analysis theory and preparing for a related certification.
 
 🎯 To be a Specialist in DE and DA, I'm trying to learn ...
 * SQL
