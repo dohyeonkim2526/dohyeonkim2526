@@ -16,7 +16,7 @@
 <br/>
 
 
-💎  **skills**
+💎  **skills**  💎
 
 <img src="https://img.shields.io/badge/Python-FF5A5F?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/R-5468FF?style=flat-square&logo=R&logoColor=white"/></a>
@@ -44,8 +44,7 @@
 </br> 
 <br>	
 <br/>
-<br>	
-<br/>
+
 
 
 <div align="center"> 
