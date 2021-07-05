@@ -6,12 +6,12 @@
 ✏ I'm studying data analysis theory and preparing for a related certification.
 
 🎯 To be a Specialist in DE and DA, I'm trying to learn ...
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus2526">
 * SQL
 * Spark
 * Scala
 * Java, Aws, Hive, Hadoop
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus2526">
 <br>	
 <br/>	
 <div align="center">
