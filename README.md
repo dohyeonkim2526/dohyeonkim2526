@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F9DC3E&height=250&text=Dohyeon's%20Space&desc=🌈%20Welcome%20to%20Visit%20🌈&descSize=25&descAlignY=50&fontSize=50&fontAlignY=30&fontColor=666666&animation=fadeIn)
 
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus2526">
+
 😄 Hi, It's Do Hyeon Kim. I’m interested in Data Engineering and Analysist.
 
 ✏ I'm studying data analysis theory and preparing for a related certification.
@@ -10,8 +13,7 @@
 * Scala
 * Java, Aws, Hive, Hadoop
 
-<br>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus2526">	
+<br>	
 <br/>	
 <div align="center">
 <div align="center">
