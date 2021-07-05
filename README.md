@@ -8,7 +8,7 @@
 
 🎯 To be a Specialist in DE and DA, I'm trying to learn ...
 * SQL
-* Spark
+* Google Analytics
 * Scala
 * Java, Aws, Hive, Hadoop
 
