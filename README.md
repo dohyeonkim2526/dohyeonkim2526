@@ -46,7 +46,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus2526)](https://solved.ac/ehgus2526/)	
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeonkim2526&layout=compact&hide=jupyter%20notebook&theme=react)](https://github.com/dohyeonkim2526/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeonkim2526&layout=compact&hide=jupyter%20notebook&theme=react&langs_count=5)](https://github.com/dohyeonkim2526/github-readme-stats)
 	
 
 
