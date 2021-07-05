@@ -23,7 +23,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeonkim2526&layout=compact&hide=jupyter%20notebook&theme=chartreuse-dark)](https://github.com/dohyeonkim2526/github-readme-stats)
 	
 	
-[![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ehgus2526)](https://solved.ac/ehgus2526)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus2526)](https://solved.ac/ehgus2526)
+
 
 
 
