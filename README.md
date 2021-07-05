@@ -11,17 +11,18 @@
 * Java, Aws, Hive, Hadoop
 
 <div align="center">
-<br>
+
+<div align="center">
 	
-<br/>
+
 	
 [![Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyeonkim2526&hide=prs,contribs&show_icons=true&theme=chartreuse-dark)](https://github.com/dohyeonkim2526/github-readme-stats)
 </div>
 
-<div align="center">
+<br>
 	
+<br/>
 	
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeonkim2526&layout=compact&hide=jupyter%20notebook&theme=chartreuse-dark)](https://github.com/dohyeonkim2526/github-readme-stats)
 
 	
