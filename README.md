@@ -16,7 +16,7 @@
 <br/>
 
 
-🔘  **skills**
+🔴  **skills**
 
 <img src="https://img.shields.io/badge/Python-FF5A5F?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/R-5468FF?style=flat-square&logo=R&logoColor=white"/></a>
@@ -26,45 +26,33 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 
 
+🟡  **tools**
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/SpyderIDE-40B5A4?style=flat-square&logo=SpyderIDE&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jupyter-6CADDF?style=flat-square&logo=Jupyter&logoColor=white"/></a>
+
+
+🟢  **contact**
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://python-lab-201.tistory.com/)](https://python-lab-201.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:veronica.kdh@gmail.com)](mailto:veronica.kdh@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dodo_201@naver.com)](mailto:dodo_201@naver.com)
+ 
+
+
 
 <div align="center">
-<div align="center">
-
-
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus2526)](https://solved.ac/ehgus2526/)	
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeonkim2526&layout=compact&hide=jupyter%20notebook&theme=Gradient)](https://github.com/dohyeonkim2526/github-readme-stats)
 	
 
-	
-
-
-
 
 </div>
 
-<br/>
+<b>
 
-<br> 
-  
-### 🕹 **tools** 🕹
-<div align="center">
-	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> 
-	<img src="https://img.shields.io/badge/SpyderIDE-40B5A4?style=flat-square&logo=SpyderIDE&logoColor=white"/></a>
-	<img src="https://img.shields.io/badge/Jupyter-6CADDF?style=flat-square&logo=Jupyter&logoColor=white"/></a>
-
-</div>
-<br>
-<br/>
-<br>
-<br/>
-
-<div align="center">	
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://python-lab-201.tistory.com/)](https://python-lab-201.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:veronica.kdh@gmail.com)](mailto:veronica.kdh@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dodo_201@naver.com)](mailto:dodo_201@naver.com)
- 	
-</div>	
-</div>
+</br> 
+ 
