@@ -21,7 +21,7 @@
 <div align="center">
 	
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeonkim2526&layout=compact)](https://github.com/dohyeonkim2526/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeonkim2526&layout=compact?hide=JypyterNotebook)](https://github.com/dohyeonkim2526/github-readme-stats)
 
 	
   
