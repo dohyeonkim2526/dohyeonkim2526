@@ -16,7 +16,7 @@
 <br/>
 
 
-🔴  **skills**
+💎  **skills**
 
 <img src="https://img.shields.io/badge/Python-FF5A5F?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/R-5468FF?style=flat-square&logo=R&logoColor=white"/></a>
@@ -26,14 +26,14 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 
 
-🟡  **tools**
+💎  **tools**
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/SpyderIDE-40B5A4?style=flat-square&logo=SpyderIDE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-6CADDF?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 
 
-🟢  **contact**
+💎  **contact**
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://python-lab-201.tistory.com/)](https://python-lab-201.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:veronica.kdh@gmail.com)](mailto:veronica.kdh@gmail.com)
