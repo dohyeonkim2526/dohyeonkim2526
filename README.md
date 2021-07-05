@@ -13,7 +13,19 @@
 * Java, Aws, Hive, Hadoop
 
 <br>	
-<br/>	
+<br/>
+
+
+🔱 **skills 🔱
+<img src="https://img.shields.io/badge/Python-FF5A5F?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/R-5468FF?style=flat-square&logo=R&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-FECC00?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+
+
+
 <div align="center">
 <div align="center">
 
@@ -31,17 +43,6 @@
 
 </div>
 
-### 🔱 **skills** 🔱
-<div align="center">	
-	<img src="https://img.shields.io/badge/Python-FF5A5F?style=flat-square&logo=Python&logoColor=white"/></a> 
-	<img src="https://img.shields.io/badge/R-5468FF?style=flat-square&logo=R&logoColor=white"/></a>
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>
-	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
-	<img src="https://img.shields.io/badge/Java-FECC00?style=flat-square&logo=Java&logoColor=white"/></a>
-	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-
-	
-</div>
 <br/>
 
 <br> 
