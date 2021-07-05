@@ -11,7 +11,7 @@
 * Java, Aws, Hive, Hadoop
 
 <br>
-	
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus2526">	
 <br/>	
 <div align="center">
 <div align="center">
@@ -25,7 +25,7 @@
 
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus2526)](https://solved.ac/ehgus2526/)
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
+
 
 
 
