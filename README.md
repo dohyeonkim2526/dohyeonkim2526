@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=F9DC3E&height=250&section=header&text=Dohyeon's%20Space&desc=🌈%20Welcome%20to%20Visit%20🌈&descSize=25&descAlignY=50&fontSize=50&fontAlignY=30&fontColor=666666&animation=fadeIn)
 
 
 😄 Hi, It's Do Hyeon Kim. I’m interested in Data Engineering and Analysist.
@@ -45,8 +44,6 @@
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus2526)](https://solved.ac/ehgus2526/)	
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeonkim2526&layout=compact&hide=jupyter%20notebook&theme=gradient&langs_count=5)](https://github.com/dohyeonkim2526/github-readme-stats)
 	
 
 
