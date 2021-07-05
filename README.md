@@ -17,11 +17,11 @@
 <div align="center">
 <div align="center">
 	
-[![Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyeonkim2526&hide=prs,contribs&show_icons=true&theme=chartreuse-dark&bg_color=5882FA)](https://github.com/dohyeonkim2526/github-readme-stats)
+[![Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyeonkim2526&hide=prs,contribs&show_icons=true&theme=Gradient&bg_color=5882FA)](https://github.com/dohyeonkim2526/github-readme-stats)
 
 
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeonkim2526&layout=compact&hide=jupyter%20notebook&theme=chartreuse-dark)](https://github.com/dohyeonkim2526/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeonkim2526&layout=compact&hide=jupyter%20notebook&theme=Gradient)](https://github.com/dohyeonkim2526/github-readme-stats)
 	
 
 	
