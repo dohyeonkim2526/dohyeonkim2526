@@ -56,6 +56,6 @@
 
 </br> 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dohyeonkim2526&repo=ProblemSolving&theme=ayu-mirage)](https://github.com/dohyeonkim2526/ProblemSolving)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dohyeonkim2526&repo=ProblemSolving&theme=slateorange)](https://github.com/dohyeonkim2526/ProblemSolving)
 
  
