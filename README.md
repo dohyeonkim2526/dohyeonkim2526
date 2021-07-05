@@ -16,8 +16,6 @@
 <br/>	
 <div align="center">
 <div align="center">
-	
-// [![Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyeonkim2526&hide=prs,contribs&show_icons=true&theme=Gradient)](https://github.com/dohyeonkim2526/github-readme-stats)
 
 
 	
