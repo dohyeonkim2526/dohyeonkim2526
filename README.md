@@ -3,7 +3,6 @@
 
 
 😄 Hi, It's Do Hyeon Kim. I’m interested in Data Engineering and Analysist.
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus2526">
 
 ✏ I'm studying data analysis theory and preparing for a related certification.
 
@@ -19,12 +18,13 @@
 <div align="center">
 
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus2526)](https://solved.ac/ehgus2526/)	
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeonkim2526&layout=compact&hide=jupyter%20notebook&theme=Gradient)](https://github.com/dohyeonkim2526/github-readme-stats)
 	
 
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus2526)](https://solved.ac/ehgus2526/)
 
 
 
