@@ -26,7 +26,7 @@
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/SpyderIDE-40B5A4?style=flat-square&logo=SpyderIDE&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jupyter-6CADDF?style=flat-square&logo=Jupyter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jupyter-6CADDF?style=flat-square&logo=Jupyter&logoColor=white"></a>
 
 
 💎  **contact**
