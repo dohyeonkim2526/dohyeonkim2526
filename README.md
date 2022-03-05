@@ -19,14 +19,15 @@
 
 <img src="https://img.shields.io/badge/Python-FF5A5F?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/R-5468FF?style=flat-square&logo=R&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>
 
 
 💎  **tools**
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/SpyderIDE-40B5A4?style=flat-square&logo=SpyderIDE&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jupyter-6CADDF?style=flat-square&logo=Jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-6CADDF?style=flat-square&logo=Jupyter&logoColor=white"/></a>
+
 
 
 💎  **contact**
