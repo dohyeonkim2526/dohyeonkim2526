@@ -3,8 +3,7 @@
 
 😄 Hi, It's Do Hyeon Kim. I’m a Data Architect.
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus2526"><img/>
-
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus2526">
 ✏ I'm studying DA theory and preparing for a related certification.
 🎯 To be a Specialist in Data Engineering and Data Architect, I'm trying to learn ...
 * HiveSQL
@@ -36,7 +35,7 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dodo_201@naver.com)](mailto:dodo_201@naver.com)
  
 
-<b>
+<br>
 </br> 
 <br>	
 <br/>
