@@ -7,6 +7,7 @@
 ✏ I'm studying DA theory and preparing for a related certification.
 
 🎯 To be a Specialist in Data Engineering and Data Architect, I'm trying to learn ...
+
 * HiveSQL
 * Data Architecture
 * Hadoop, Hive and etc.
