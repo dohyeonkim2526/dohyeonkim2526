@@ -7,9 +7,9 @@
 ✏ I'm studying DA theory and preparing for a related certification.
 
 🎯 To be a Specialist in DE and DA, I'm trying to learn ...
-* SQL
-* Google Analytics
-* Scala, Hadoop and etc.
+* HiveSQL
+* Data Architecture
+* Hadoop, Hive and etc.
 
 <br>	
 <br/>
