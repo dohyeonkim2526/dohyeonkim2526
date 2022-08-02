@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F9DC3E&height=250&section=header&text=Dohyeon's%20Space&desc=🌈%20Welcome%20to%20Visit%20🌈&descSize=25&descAlignY=50&fontSize=50&fontAlignY=30&fontColor=666666&animation=fadeIn)
 
 
-😄 Hi, It's Do Hyeon Kim. I’m interested in Data Engineering and Analysist.
+😄 Hi, It's Do Hyeon Kim. I’m a Data Architect.
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgus2526">
 
 ✏ I'm studying DA theory and preparing for a related certification.
 
-🎯 To be a Specialist in DE and DA, I'm trying to learn ...
+🎯 To be a Specialist in Data Engineering and Data Architect, I'm trying to learn ...
 * HiveSQL
 * Data Architecture
 * Hadoop, Hive and etc.
